@@ -2,8 +2,8 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "50948181169"
-global.ownername = "🌹⃟⃢👑 ༒𝙎-𝙏𝞢𝞜🌹⃟⃢👑"
+global.ownernomer = "14185643398"
+global.ownername = "mowgli"
 global.ytname = "DRK_ST_Tech"
 global.socialm = "GitHub: DRK-S-TEN"
 global.location = "America/Port-au-Prince"
@@ -29,7 +29,7 @@ global.prefa = ['']
 //false=disable and true=enable
 global.autoRecording = false //auto recording
 global.autoTyping = false //auto typing
-global.autorecordtype = true //auto typing + recording
+global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = false //auto update bio
 global.anti92 = false //auto block +92 
